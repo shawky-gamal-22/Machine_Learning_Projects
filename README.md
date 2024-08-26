@@ -30,7 +30,7 @@ This project focuses on the analysis, modeling, and deployment of a dataset from
 ## Dataset
 
 The dataset used is from WHO, containing various health indicators. The data was cleaned, visualized, and prepared for modeling.
-(The link) [https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who]
+The link[https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who]
 
 ## EDA
 
